@@ -1,0 +1,12 @@
+{
+  "name": "utilbase",
+  "version": "1.0.0",
+  "description": "typescript & react state-management library",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["state", "management", "react", "typescript", "global"],
+  "author": "resforx",
+  "license": "ISC"
+}

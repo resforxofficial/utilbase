@@ -52,7 +52,7 @@ interface State<T> {
  * @param initialState this parameter is to be used initially
  * @returns getState, get the current states, setState, set the states to new states
  * 
- * @example (2 ways)
+ * @example (2 ways)A
  * 
  * first ways
  * ```typescript
